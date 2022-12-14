@@ -9,7 +9,7 @@
   - FLOSS data projects
 - 📫 How to reach me ...
   - @racamirko@data-folks.masto.host
-  - first_name . last_name @ employer dot com
+  - first_name dot last_name at employer dot com
 <!---
 mirac-cisco/mirac-cisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
