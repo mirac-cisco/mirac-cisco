@@ -1,3 +1,5 @@
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirac-cisco&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @mirac-cisco
   - Senior Data Engineer @ Cisco
   - Emerging Technologies & Innovation dept.
@@ -10,8 +12,6 @@
 - 📫 How to reach me ...
   - @racamirko@data-folks.masto.host
   - first_name dot last_name at employer dot com
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mirac-cisco&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
 <!---
 mirac-cisco/mirac-cisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
